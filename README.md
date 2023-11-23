@@ -35,3 +35,26 @@ You can try out the same in MongoDB shell
 ##### Insert Multiple document using MongoDB Shell
 ![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/128cbfa8-44bd-4f72-a772-f653cf04453f)
 
+##### To display all documents in Shell
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/816e1983-1952-4616-9eeb-48c87f42070b)
+
+If there are more than 20 documents than to display type out it so it will keep on displaying 20 ..20 documents.
+
+##### To add filter to query using shell
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/d48c2142-3279-4092-9655-6b799d68d457)
+
+##### Sorting & Filtering
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/da709a1a-a651-4f02-8bda-a1a164d12576)
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/a06fb021-db3e-4571-a481-1df2247255cd)
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/4ced6ed8-b0a3-4f4d-ac57-74558f402c86)
+
+If you want to arrange in descending order than put it as -1
+
+
+
+
+
+
+
