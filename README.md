@@ -52,6 +52,31 @@ If there are more than 20 documents than to display type out it so it will keep 
 
 If you want to arrange in descending order than put it as -1
 
+##### Nested Documents
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/a877cc19-0af7-4e9c-af65-ebcea4eeafdd)
+
+##### If document is Already Existing than how to make a Nested Document
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/84628b81-ffeb-42c2-a4ee-a07e5d68a883)
+
+##### Operators
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/10727004-4648-4b60-b125-42a5cb385296)
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/b71630ef-6ed6-4cdd-92e4-2120b6fa2314)
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/7929dc45-272d-4cda-9565-ae34f3da41f5)
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/86387b3d-f8f7-409a-b1d8-3f12f7742b41)
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/43fe42d4-8471-4276-a02b-3472d2ae8290)
+
+
+
+
+
+
+
+
+
 
 
 
