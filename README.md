@@ -69,6 +69,51 @@ If you want to arrange in descending order than put it as -1
 
 ![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/43fe42d4-8471-4276-a02b-3472d2ae8290)
 
+##### Difference between $in and $nin
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/154cca5f-adf1-4104-b8e4-eb27f070fed4)
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/eabcc1a1-1983-45a7-8531-306f63d3461b)
+
+##### Array Querying
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/21d1bdb0-fcf1-4dce-b019-b696c9a8ee37)
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/aac42886-cce0-435c-a673-343e7dae74b2)
+
+##### Export the Data from MongoDB in the format of JSON or CSV
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/8b89ccb1-89ee-4776-a989-325a1fe3a933)
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/643895c5-fd68-4164-9887-521886224ed9)
+
+The above is the CSV file exported from MongoDB Compass.
+
+##### Delete Documents
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/23a5a4c8-e495-493d-a277-e0686ddc7e2b)
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/768ebd22-a265-42e1-8ed5-5c4a711c06f8)
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/827b8172-ed23-4a73-b11c-ec4316f9b75f)
+
+##### Import a file from local machine to a MongoDB
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/01a6ced6-f671-4b3d-8090-fd1eb8b05d54)
+
+##### Update the Documents
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/63df0f6b-6d2f-44bd-a073-dbfd57ee9680)
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/17cfe5ca-e8bf-4348-91ba-73f3c054f996)
+
+![image](https://github.com/Pramanik4/MongoDB_Stuff/assets/75212387/1e8fb0d1-c22b-4b3c-b005-3a43fd31625a)
+
+
+
+
+
+
 
 
 
